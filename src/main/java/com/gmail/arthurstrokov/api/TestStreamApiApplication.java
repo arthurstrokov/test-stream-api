@@ -9,5 +9,4 @@ public class TestStreamApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestStreamApiApplication.class, args);
     }
-
 }
